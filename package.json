@@ -1,0 +1,10 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^6.0.0"
+  }
+}
