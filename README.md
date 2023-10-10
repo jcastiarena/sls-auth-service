@@ -24,3 +24,5 @@ curl --location 'https://YOUR_AUTH0_APP_DOMAIN.auth0.com/oauth/token' \
 --data-urlencode 'scope=openid'
 ```
 And save the TOKEN_ID obtained in the response.
+
+Work based on @arielweinberger's course
